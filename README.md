@@ -6,7 +6,7 @@ Takes in the GSMTracker log file, runs it through Google's Geocoder, and
 outputs a json file of coordinates.
 
 Requires a Google API Key for their Geocoder, which is limited to a very
-stingy 100 queries a day. These most be really expensize for Google to run.
+stingy 100 queries a day. These most be really expensive for Google to run.
 
 ### Usage
 
