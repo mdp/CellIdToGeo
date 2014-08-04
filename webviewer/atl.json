@@ -1,0 +1,972 @@
+[
+    {
+        "created_at": "2014-07-07T02:05+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T06:22+0000",
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19987455
+    },
+    {
+        "created_at": "2014-07-07T06:44+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T07:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T08:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T09:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T10:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T11:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T12:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T13:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T14:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T15:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7504492,
+            "lng": -122.43766900000001,
+            "accuracy": 1247
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944448
+    },
+    {
+        "created_at": "2014-07-07T16:18+0000",
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944451
+    },
+    {
+        "created_at": "2014-07-07T17:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T18:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T19:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T20:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T21:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T22:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7507908,
+            "lng": -122.4352953,
+            "accuracy": 927
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19944445
+    },
+    {
+        "created_at": "2014-07-07T23:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7441525,
+            "lng": -122.3879268,
+            "accuracy": 1274
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945785
+    },
+    {
+        "created_at": "2014-07-08T00:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T01:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T02:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T03:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T04:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T05:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T06:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.7452192,
+            "lng": -122.38186909999997,
+            "accuracy": 1846
+        },
+        "mccmnc": "310260",
+        "lac": 40497,
+        "cid": 19945788
+    },
+    {
+        "created_at": "2014-07-08T07:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.686619199999996,
+            "lng": -122.39156059999999,
+            "accuracy": 1863
+        },
+        "mccmnc": "310260",
+        "lac": 40487,
+        "cid": 124802819
+    },
+    {
+        "created_at": "2014-07-08T08:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.686619199999996,
+            "lng": -122.39156059999999,
+            "accuracy": 1863
+        },
+        "mccmnc": "310260",
+        "lac": 40487,
+        "cid": 124802819
+    },
+    {
+        "created_at": "2014-07-08T09:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.686619199999996,
+            "lng": -122.39156059999999,
+            "accuracy": 1863
+        },
+        "mccmnc": "310260",
+        "lac": 40487,
+        "cid": 124802819
+    },
+    {
+        "created_at": "2014-07-08T10:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 37.6160977,
+            "lng": -122.38763120000002,
+            "accuracy": 675
+        },
+        "mccmnc": "310260",
+        "lac": 40491,
+        "cid": 111694935
+    },
+    {
+        "created_at": "2014-07-08T11:18+0000",
+        "mccmnc": "310260",
+        "lac": 40491,
+        "cid": 111694331
+    },
+    {
+        "created_at": "2014-07-08T12:18+0000",
+        "mccmnc": "310260",
+        "lac": 40491,
+        "cid": 111694331
+    },
+    {
+        "created_at": "2014-07-08T13:18+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T14:18+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T15:18+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T16:18+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T17:18+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T18:18+0000",
+        "mccmnc": "310260",
+        "lac": 29098,
+        "cid": 14962380
+    },
+    {
+        "created_at": "2014-07-08T19:18+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 35.0601558,
+            "lng": -89.93530849999999,
+            "accuracy": 1410
+        },
+        "mccmnc": "310260",
+        "lac": 21098,
+        "cid": 14945231
+    },
+    {
+        "created_at": "2014-07-08T20:19+0000",
+        "mccmnc": "310260",
+        "lac": 29098,
+        "cid": 14965329
+    },
+    {
+        "created_at": "2014-07-08T21:19+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T22:19+0000",
+        "error": "No cellular radio information"
+    },
+    {
+        "created_at": "2014-07-08T23:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6370438,
+            "lng": -84.38370309999999,
+            "accuracy": 1415
+        },
+        "mccmnc": "310260",
+        "lac": 10273,
+        "cid": 3692
+    },
+    {
+        "created_at": "2014-07-09T00:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T01:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T02:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T03:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T04:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T05:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6392597,
+            "lng": -84.37670059999999,
+            "accuracy": 1252
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938988
+    },
+    {
+        "created_at": "2014-07-09T06:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T07:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T08:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T09:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T10:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T11:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T12:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T13:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T14:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T15:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T16:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T17:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T18:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T19:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T20:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T21:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T22:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-09T23:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T00:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T01:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T02:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T03:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T04:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T05:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T06:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.65309,
+            "lng": -84.38927199999999,
+            "accuracy": 1774
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938992
+    },
+    {
+        "created_at": "2014-07-10T07:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.6795462,
+            "lng": -84.4172763,
+            "accuracy": 1379
+        },
+        "mccmnc": "310260",
+        "lac": 23796,
+        "cid": 26938709
+    },
+    {
+        "created_at": "2014-07-10T08:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T09:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T10:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T11:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T12:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T13:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T14:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.730274,
+            "lng": -84.3268331,
+            "accuracy": 2299
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706435
+    },
+    {
+        "created_at": "2014-07-10T15:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T16:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T17:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T18:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T19:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T20:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T21:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T22:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-10T23:19+0000",
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706395
+    },
+    {
+        "created_at": "2014-07-11T00:19+0000",
+        "geocoding": {
+            "source": "google",
+            "lat": 33.7906663,
+            "lng": -84.41036629999999,
+            "accuracy": 1411
+        },
+        "mccmnc": "310260",
+        "lac": 2491,
+        "cid": 59706383
+    }
+]
